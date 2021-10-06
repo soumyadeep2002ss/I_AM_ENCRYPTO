@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">I_AM_ENCRYPTO</string>
+    <string name="button">Button</string>
+    <string name="get_encrypted_message">GET ENCRYPTED MESSAGE</string>
+    <string name="encrypted_message">encrypted_message</string>
+    <string name="decrypt_message">DECRYPT_MESSAGE</string>
+    <string name="welcome_to_encrypto">WELCOME TO ENCRYPTO</string>
+    <string name="enter_decryption_key">Enter Decryption Key</string>
+    <string name="enter_message_for_decryption">Enter Message For Decryption</string>
+    <string name="enter_encryption_key">Enter Encryption Key</string>
+    <string name="enter_message_for_encryption">Enter Message For Encryption</string>
+    <string name="made_by_soumyadeep">Made By Soumyadeep</string>
+</resources>
